@@ -11,3 +11,4 @@ groceryrules<-apriori(groceries,parameter=list(support=.006, confidence=0.25, mi
 inspect(sort(groceryrules, by="lift")[1:20]
 
         
+        
