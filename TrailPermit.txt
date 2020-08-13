@@ -1,0 +1,546 @@
+
+December 21, 2016	Tracking Number:      340447 
+	Authorization Number:  2691
+
+
+REGISTERED MAIL
+
+
+Teck Metals Ltd.
+Trail Operations
+25 Aldridge Ave
+Trail, BC  V1R 4L8
+
+Dear Permittee:
+
+Enclosed is Amended Permit 2691 issued under the provisions of the Environmental Management Act.  Your attention is respectfully directed to the terms and conditions outlined in the permit.  An annual fee will be determined according to the Permit Fees Regulation.
+
+This permit does not authorize entry upon, crossing over, or use for any purpose of private or Crown lands or works, unless and except as authorized by the owner of such lands or works.  The responsibility for obtaining such authority rests with the permittee.  This permit is issued pursuant to the provisions of the Environmental Management Act to ensure compliance with Section 120(3) of that statute, which makes it an offence to discharge waste, from a prescribed industry or activity, without proper authorization.  It is also the responsibility of the permittee to ensure that all activities conducted under this authorization are carried out with regard to the rights of third parties, and comply with other applicable legislation that may be in force.
+
+This decision may be appealed to the Environmental Appeal Board in accordance with Part 8 of the Environmental Management Act.  An appeal must be delivered within 30 days from the date that notice of this decision is given.  For further information, please contact the Environmental Appeal Board at (250) 387-3464.
+
+Administration of this permit will be carried out by staff from the Environmental Protection Division's Regional Operations Branch.  Plans, data and reports pertinent to the permit are to be submitted by email or electronic transfer to the Director, designated Officer, or as further instructed.
+
+
+Yours truly,
+
+
+
+Carol Danyluk, P.Eng.
+for Director, Environmental Management Act
+Authorizations - South Region
+
+Enclosure
+
+cc:  Environment Canada
+
+
+MINISTRY OF ENVIRONMENTPERMIT
+2691
+Under the Provisions of the Environmental Management Act
+Teck Metals Ltd.
+
+is authorized to discharge emissions to air from a Lead Smelter Facility, and Applied Research and Technology Facility located in Trail, British Columbia, subject to the terms and conditions listed below.  Contravention of any of these conditions is a violation of the Environmental Management Act and may lead to prosecution.
+
+This Permit supersedes and amends all previous versions of Permit 2691 issued under Part 2, Section 14 of the Environmental Management Act.
+1.	AUTHORIZED DISCHARGES
+1.1	This section applies to the discharge of emissions from the LEAD FURNACE STACK. The site reference number for this discharge is E102899.1.1.1	The maximum rate of discharge is 15,500 cubic metres per minute.1.1.2	The characteristics of the discharge must be equivalent to or better than: 
+		
+		Total Particulate Matter 	25 mg/m3
+		Total Lead   			1 mg/m3
+	1.1.3	The authorized works are fans, ducts, three baghouses, stack and related appurtenances approximately located as shown on Site Plan D.1.1.4	The location of the facilities from which the discharge originates and the point of discharge is Lot 1, Plan 4926, Kootenay District.	
+
+1.2	This section applies to the discharge of emissions from the #2 SLAG FUMING FURNACE STACK. The site reference number for this discharge is E102901.1.2.1	The maximum rate of discharge is 6,800 cubic metres per minute.1.2.2	The characteristics of the discharge must be equivalent to or better than: 
+		
+		Total Particulate Matter		25 mg/m3
+		Total Lead 		  	1 mg/m3
+1.2.3	The authorized works are fans, ducts, baghouse, stack, and related appurtenances approximately located as shown on Site Plan C.1.2.4	The location of the facilities from which the discharge originates and the point of discharge is Lot 1, Plan 4926, Kootenay District.
+1.3	This section applies to the discharge of emissions from the #3 SLAG FUMING FURNACE STACK. The site reference number for this discharge is E239038.
+
+	1.3.1	The maximum rate of discharge is 5,400 cubic metres per minute.
+
+1.3.2	The characteristics of the discharge must be equivalent to or better than: 
+		
+		Total Particulate Matter  	25 mg/m3	
+		Total Lead 		  	1 mg/m3
+
+	1.3.3	The authorized works are fans, ducts, baghouse, stack, and 	related 				appurtenances approximately located as shown on Site Plan C.
+
+1.3.4	The location of the facilities from which the discharge originates and the point of discharge is Lot 1, Plan 4926, Kootenay District.
+
+
+
+
+
+
+
+
+1.4	This section applies to the discharge of emissions from a REFINERY SCRUBBER STACK. The site reference number for this discharge is E206935.1.4.1	The maximum rate of discharge is 5,300 cubic metres per minute.  The maximum rate of discharge may intermittently be 6,500 cubic metres per minute while the source authorized in Section 1.5 is being directed through these works.  1.4.2	The characteristics of the discharge must be equivalent to or better than: 
+		
+		Total Particulate Matter		21 mg/m3	
+		Total Arsenic 	  		4 mg/m3	
+		Total Lead  			1 mg/m3	
+		Soluble Fluoride   		2 part/million 
+1.4.3	The authorized works are fans, ducts, scrubber, baghouse, intermittent baghouse (see Section 1.5), stack and related appurtenances approximately located as shown on Site Plan E.1.4.4	The location of the facilities from which the discharge originates and the point of discharge is Lot 4, Plan 4926, Kootenay District.
+
+1.5	This section applies to the discharge of emissions from a REFINERY SHORT ROTARY FURNACE STACK. The site reference number for this discharge is E215799.1.5.1	The maximum rate of discharge is 1,200 cubic metres per minute.  The maximum rate of discharge may intermittently be 0 cubic metres per minute while this source is being directed through the works authorized in Section 1.4.  1.5.2	The characteristics of the discharge must be equivalent to or better than: 
+		
+		Total Particulate Matter		21 mg/m3	
+		Total Arsenic 	 		2 mg/m3	
+		Soluble Fluoride   		5 part/million 
+1.5.3	The authorized works are fans, ducts, baghouse, stack and related appurtenances approximately located as shown on Site Plan E.1.5.4	The location of the facilities from which the discharge originates and the point of discharge is Lot 4, Plan 4926, Kootenay District.1.6	This section applies to the discharge of emissions from a REFINERY NO 1 SILVER BAGHOUSE STACK. The site reference number for this discharge is E290289.1.6.1	The maximum rate of discharge is 1,850 cubic metres per minute.1.6.2	The characteristics of the discharge must be equivalent to or better than: 
+		
+		Total Particulate Matter		15 mg/m3
+	 1.6.3	The authorized works are fan, ducts, baghouse, stack and related appurtenances approximately located as shown on Site Plan E.1.6.4	The location of the facilities from which the discharge originates and the point of discharge is Lot 4, Plan 4926, Kootenay District.
+
+1.7	This section applies to the discharge of emissions from SMELTER RECYCLE BUILDING BAGHOUSE STACKS (4). The site reference number for this discharge is E306295.1.7.1	The maximum rate of discharge for each of the four stacks is 1,450 cubic metres per minute.1.7.2	The characteristics of the discharge must be equivalent to or better than: 
+		
+		Total Particulate Matter		15 mg/m3	
+		Total Lead 	  		1 mg/m31.7.3	The authorized works are fans, ducts, four on-demand baghouses, four stacks, and related appurtenances approximately located as shown on Site Plan N.1.7.4	The location of the facilities from which the discharge originates and the point of discharge is Lot 1, Plan 4926, Kootenay District.
+
+
+
+
+
+
+
+1.8	This section applies to the discharge of emissions from a LEAD DETINNING STACK. The site reference number for this discharge is E274644.1.8.1	The maximum rate of discharge is 1000 cubic metres per minute.
+
+1.8.2	The characteristics of the discharge must be equivalent to or better than: 
+		
+		Total Particulate Matter  	15 mg/m3
+1.8.3	The authorized works are fans, ducts, baghouse, stack and related appurtenances approximately located as shown on Site Plan L.
+
+1.8.4	The location of the facilities from which the discharge originates and the point of discharge is Lot 1, Plan 4926, Kootenay District.
+
+1.9	This section applies to the discharge of emissions from a FEED PREP BALL MILL STACK. The site reference number for this discharge is E259120.1.9.1	The maximum rate of discharge is 200 cubic metres per minute.1.9.2	The characteristics of the discharge must be equivalent to or better than: 
+		
+		Total Particulate Matter		15 mg/m3
+			1.9.3	The authorized works are fans, ducts, baghouse, stack and related appurtenances approximately located as shown on Site Plans C and D.1.9.4	The location of the facilities from which the discharge originates and the point of discharge is Lot 1, Plan 4926, Kootenay District.
+
+
+
+
+
+
+
+
+
+1.10	This section applies to the discharge of emissions from a COPPER PRODUCTS FLASH TANK SCRUBBER STACK. The site reference number for this discharge is E215813.1.10.1	The maximum rate of discharge is 100 cubic metres per minute.1.10.2	The characteristics of the discharge must be equivalent to or better than: 
+		
+		Total Particulate Matter 	15 mg/m3		
+1.10.3	The authorized works are fans, ducts, scrubber, stack and related appurtenances approximately located as shown on Site Plan K.1.10.4	The location of the facilities from which the discharge originates and the point of discharge is Lot 4, Plan 4926, Kootenay District.
+1.11	This section applies to the discharge of emissions from a COPPER ARSENATE VENT SCRUBBER STACK. The site reference number for this discharge is E215814.1.11.1	The maximum rate of discharge is 240 cubic metres per minute.1.11.2	The characteristics of the discharge must be equivalent to or better than: 
+		
+		Total Particulate Matter  	15 mg/m3
+	1.11.3	The authorized works are fans, ducts, scrubber, stack and related appurtenances approximately located as shown on Site Plan K.1.11.4	The location of the facilities from which the discharge originates and the point of discharge is Lot 4, Plan 4926, Kootenay District.
+
+
+
+
+
+
+
+
+
+1.12	This section applies to the discharge of emissions from a LEAD BYPASS STACK. The site reference number for this discharge is E102898.1.12.1	Authorized discharge period is:
+	
+		Shutdown/Start-up Mode: Maximum 168 hours per month (cumulative) 
+		Standby Mode:  continuous (no limitation)1.12.2	The characteristics of the discharge must be equivalent to or better than: 
+		
+		Shutdown Mode:	 Typical low SO2 process emissions
+		Start-up Mode:  Typical low SO2 process emissions 
+		Standby Mode:  Typical low SO2 process emissions 				  	1.12.3	The authorized works are fans, ducts, stack and related appurtenances approximately located as shown on Site Plan C.1.12.4	The location of the facilities from which the discharge originates and the point of discharge is Lot 1, Plan 4926, Kootenay District.
+1.13	Miscellaneous Sources
+
+	This section applies to the discharge of air contaminants from miscellaneous sources as shown on the attached Site Plans.
+	
+	The characteristics of the discharge must be typical emissions originating from building ventilation, fan vents, and stacks.
+	
+	These sources must be operated as per Part 2 Section 6 of the Environmental Management Act that prohibits the introduction of waste into the environment in such a manner or quantity as to cause pollution.  The Director may require sampling or control measures at these sources at any time by specifying such requirements in writing to the Permittee.
+
+
+
+
+
+
+1.14	Total Sulphur Dioxide Emissions
+
+	This section applies to the discharge of TOTAL SULPHUR DIOXIDE EMISSIONS from the lead smelter. The site reference number for this discharge is E217572.1.14.1	The characteristics of the discharge must be equivalent to or better than: 
+		
+		Sulphur Dioxide  			6000 t/y
+1.14.2	The total Sulphur dioxide loading limit from the lead smelting operation is a summation of the emission from the following three sources:
+
+StackEMS ID#Permit SectionFlowSulphur DioxideMethodAveraging
+PeriodMethodAveraging
+PeriodLead FurnaceE1028991.1AverageStack Sampling PeriodAverageDaily#2 Slag Fuming FurnaceE1029011.2AverageStack Sampling PeriodAverageDaily#3 Slag Fuming FurnaceE2390381.3AverageDailyAverageDaily		The total sulphur dioxide loading must be calculated by using an annual summation of multiplication of the average SO2 concentrations and flows.  The methodology for the gas flow measurements and stack SO2 meters are referenced in Section 4 of this permit. 
+
+
+
+
+
+
+
+
+
+
+
+
+2.	GENERAL REQUIREMENTS
+2.1	Authorized Works 
+
+	The authorized works for the discharges in Section 1 must be complete and in operation while discharging.  
+
+	The Permittee must inspect the authorized works regularly and maintain them in good working order.  
+
+2.2	Bypasses
+
+	The discharge of contaminants which have bypassed the authorized treatment works is prohibited without the prior written approval of the Director.
+
+2.3	Emergency Procedures
+
+	In the event of a condition which prevents effective operation of the authorized works or leads to unauthorized discharge, the Permittee must:
+i. Comply with all applicable statutory requirements, including the Spill Reporting Regulation; 
+ii. Immediately notify the Director;
+iii. Take appropriate remedial action for the prevention or mitigation of pollution.  
+
+
+	The Director may reduce or suspend operations to protect the environment during an emergency until the authorized works have been restored and/or corrective steps have been taken to prevent unauthorized discharges.
+	
+	During and/or after the emergency event or condition, the Permittee must:
+a. Conduct appropriate sampling and analysis of discharges which may be non-compliant with requirements of this permit and/or applicable statutory requirements; 
+b. Provide results to the Director as available. 
+
+2.4	Contingency Planning
+
+	The permittee must prepare Contingency Plans outlining emergency procedures to be undertaken in the event of foreseeable emergency incidents that may result in a significant release of contaminants to the environment.  These plans must be reviewed and updated annually.  
+2.5	Process Modifications 
+
+	The Director must be notified prior to implementing changes to any process that may result in discharges exceeding the characteristics authorized under this permit.  
+
+2.6	New Works
+
+	Plans and specifications for new authorized works and upgrades to existing works must be submitted to the Director and their approval obtained before construction commences.  Works must be constructed in accordance with approved plans.  
+2.7	Additional Requirements
+
+	If the permittee is not substantively meeting the requirements of this permit or is causing a significant adverse impact on the receiving environment, the Director may require additional monitoring, installation of additional authorized works, alteration of the method of operations, completion of additional studies, and/or reduction of permit limits. 
+
+
+3.	AIR DISCHARGE REQUIREMENTS
+3.1	Ambient Sulphur Dioxide Control 
+
+	Sulphur Dioxide emissions from the entire metallurgical complex, including both the Lead Smelter (Authorized under this Permit) and the Zinc Smelter (Authorized under Permit 2692), must be controlled less than the levels specified below at the continuous ambient sites specified in subsection 4.3:  
+  
+		Annual arithmetic mean concentration of 50 ug/m3  (0.019 ppm)
+		24 hour (average) concentration of 260 ug/m3  (0.098 ppm)
+		Hourly (average) concentration of 900 ug/m3  (0.34 ppm)
+
+	The permittee must implement contingency plans outlining operational controls to help achieve levels specified above when exceedances occur.   
+
+3.2	Fugitive Emissions Control
+
+	The permittee must control fugitive air contaminants originating from this metallurgical facility such that they do not substantially alter or impair the usefulness of the environment.  
+	The permittee must prepare a Fugitive Dust Plan and submit to the Director for their approval by June 30, 2017.  This Plan should be updated and submitted for Director approval every 5 years.  
+
+3.3	Air Emissions Management Program
+
+	The Permittee must maintain an environmental management program that includes identifying and implementing opportunities for reducing the amount of contaminants discharged to air.  
+
+3.4	Standard Conditions
+
+	For the administration of this permit all gaseous volumes must be converted to standard conditions of 293.15 K and 101.325 kPa with zero percent moisture.
+
+
+
+4.	MONITORING REQUIREMENTS
+All sampling locations, techniques and equipment must be approved by the Director, prior to use.  
+
+4.1	Source Sampling and Techniques
+
+	  The Permittee must carry out the Source Sampling Program specified in the   
+	  table below:  
+
+StackEMS ID#Frequency*MethodSubstanceParticulatePbZnAsCdHgCuSbFLead FurnaceE102899QuarterlyModified Method 5XXXXXX X #2 Slag Fuming FurnaceE102901QuarterlyIsokineticXXXXXX XX#3 Slag Fuming FurnaceE239038QuarterlyModified Method 5XXXXXX XXRefinery ScrubberE206935QuarterlyModified Method 5XX X   XXRefinery Short Rotary FurnaceE215799QuarterlyIsokineticXXXRefinery Silver BaghouseE290289QuarterlyIsokineticXX X     Smelter Recycle Building Baghouses1E306295Semi-AnnualModified Method 5XXLead DetinningE274644Semi-AnnualModified Method 5X        Feed Prep Ball MillE259120Semi-AnnualModified Method 5X       Copper Products Flash Tank ScrubberE215813Semi-AnnualIsokineticX  X  X  Copper Arsenate Vent ScrubberE215814Semi-AnnualIsokineticX     X  
+Notes:
+* - Samples are to be approximately evenly spaced within the calendar year, during normal operating 	conditions, as per Section 4.9
+Modified Method 5 - This method differs with the EPA Method 5 by including a single multi-point 	isokinetic test only
+Isokinetic - This method differs with the EPA Method 5 by including a single point isokinetic test only
+1 – Sampling must be rotated such that each of the four stacks is sampled once per 2 year period 
+
+
+
+4.2	Continuous Source Monitoring
+
+	The permittee must carry out continuous monitoring on the following sources:
+ 
+StackEMS ID#SO2ParticulateFlowLead FurnaceE102899XX#2 Slag Fuming FurnaceE102901XX#3 Slag Fuming FurnaceE239038XXXRefinery ScrubberE206935  Refinery Silver BaghouseE290289 XRefinery Short Rotary FurnaceE215799XSmelter Recycle Building Stacks (4)E306295XCopper Products Flash Tank ScrubberE215813  Copper Arsenate Vent ScrubberE215814  Lead DetinningE274644 XFeed Prep Ball MillE240181 X	
+	The availability of the SO2 analyzers and flow monitoring must be at least 95% annually.   
+
+	The permittee must implement a maintenance program to ensure the continuous source monitors on the stacks identified in Section 4.2 are installed and operating properly.    
+
+	At a minimum, the program must include:	 
+i. Detailed installation records of each instrument including brand, model number, and specific installation details; 
+ii. Maintenance records for each instrument including all changes made to the equipment; 
+iii. Quality control records for each instrument including calibrations.
+	
+	Any deviations from this program must be reported to the Regional Director, Environmental Protection, on a monthly basis.
+
+
+
+
+
+
+
+
+
+
+
+
+4.3	Ambient Air Quality Monitoring
+
+	The following ambient air quality monitoring program must be carried out by the Permittee:
+
+LocationEMS #ParameterFrequencyButler ParkE250009SO2ContinuousTotal Suspended Particulate HiVolNAPS daysTSP -Metals (Pb, Zn, Cd, As)NAPS daysPM10 - HiVolNAPS daysPM10 - HiVol Metals (Pb, Zn, Cd, As)NAPS daysmeteorological dataContinuousgaseous fluoride by impingerWeeklyColumbia GardensE260012SO2ContinuousPM10 - HiVolNAPS daysPM10 - HiVol Metals (Pb, Zn, Cd, As)NAPS daysmeteorological dataContinuousWarfieldE260011SO2ContinuousPM10 - HiVolNAPS daysPM10 - HiVol Metals (Pb, Zn, Cd, As)NAPS daysmeteorological dataContinuousBirchbankE257435SO2ContinuousPM10 - HiVolNAPS daysPM10 - HiVol Metals (Pb, Zn, Cd, As)NAPS daysmeteorological dataContinuous
+	Note: NAPS (def.) National Air Pollution Surveillance, every 6th day
+
+The availability of the PM10 systems and SO2 gas analyzers for data acquisition must be at least 95% annually. 
+
+The availability of the meteorological monitors for data capture must be at least 75% quarterly.  
+
+	
+
+
+4.4	Dustfall Monitoring 
+
+	The following dustfall monitoring program must be carried out by the Permittee:
+ 
+LocationEMS #BirchbankE260004Columbia AveE259128Columbia GardensE260012DowntownE260010GlenmerryE260026OasisE260022Stoney CreekE207877Trail HospitalE260023TadanacE259131TrimacE259132WarfieldE260011
+All dustfall samples must be monitored for Total Particulate, Lead, Zinc,                                                                  Arsenic and Cadmium on a monthly basis.
+
+4.5	Sampling and Analytical Procedures
+
+	Sampling is to be carried out in accordance with the procedures described in the "British Columbia Field Sampling Manual for Continuous Monitoring Plus the Collection of Air, Air-Emission, Water, Wastewater, Soil, Sediment, and Biological Samples, 2013 Edition (Permittee)", or most recent edition, or by suitable alternative procedures as authorized by the Director.
+	
+	Analyses are to be carried out in accordance with the "British Columbia Environmental Laboratory Manual, 2015 Edition", or the most recent edition, or by suitable alternative procedures as authorized by the Director. 
+
+	Copies of the above manuals are available on the Ministry web page at:  www.env.gov.bc.ca/epd/wamr/labsys/lab_meth_manual.html 
+
+4.6	Quality Assurance
+
+	All analyses required under this permit must be conducted by a laboratory acceptable to the Director, as detailed in Section 4.5.
+
+
+
+4.7	Future Monitoring
+
+	The Director may specify in writing additional monitoring as required for the protection of the environment.  This may include sampling of environmental media and the preparation and submission of related reports.
+
+4.8	Sampling Conditions
+
+	For the purpose of validating the sampling and monitoring data, the process feeding the stack being sampled must be under normal operating conditions.  
+
+	For determining normal operating conditions, the following parameters may be considered:
+i) Production, in terms of tonnes per day of product;
+ii) For continuous processes, stable operating parameters;  
+iii) For batch processes, the cycle must exhibit typical operating parameters. 
+
+	Sampling and monitoring data must be accompanied by process data relevant to the operation of the source of the emission(s) and to the performance of the pollution abatement equipment involved in the testing.
+4.9	Qualified Professional
+
+	All documents submitted to the Director must be signed by the author.  Reports where an opinion or recommendation is expressed regarding data analysis, interpretation, assessment and/or design must also be signed and/or sealed by an appropriate Qualified Professional, who in doing so takes professional responsibility for the content of the document.
+
+	A Qualified Professional is defined as follows:
+
+	“An applied scientist or technologist specializing in an applied science or technology applicable to the duty or function, including, if applicable and without limiting this, agrology, biology, chemistry, engineering, geology or hydrogeology and who:
+	i.	is registered with the appropriate professional organization, acting under that 	organization's code of ethics, and subject to disciplinary action by that 	organization, or
+	ii.	through suitable education, experience, accreditation and/or knowledge, may be 	reasonably relied on to provide advice within their area of expertise.”
+
+	Use of a Qualified Professional as defined in 4.9 ii. must be acceptable to the Director.  
+5.	REPORTING REQUIREMENTS
+All submissions to the Director must be in electronic form.  
+
+5.1	Incident Reporting
+	
+	The permittee must submit an incident report to the Director within 60 days of reporting an event under Section 2.3.  The Director may require an incident report be submitted on an expedited basis at any time by specifying such in writing to the permittee.
+	
+	The incident report must include but is not limited to: the magnitude, duration, time and date, reasons, the results of any associated monitoring, interpretations using statistical and graphical analysis where appropriate, significance, and recommendations/mitigation measures. 
+
+5.1	Monthly Reporting
+	
+	The permittee must submit a monthly report to the Director, consisting of, but not limited to:	
+	•	The results of monitoring required under Section 4 for the previous month, suitably 	tabulated;
+	•	Identification of any gaps in monitoring results and provide rationale for the gaps;
+	•	Highlights of environmental performance and non-compliant situations;
+  	•	Failures of Ministry audits of continuous SO2 monitors, probable cause(s), and 	corrective/preventive actions;
+  	•	Cumulative monthly hours of low SO2 process emissions to the Lead Bypass Stack 	(E102898);
+  	•	Any deviations from the Continuous Source Monitoring protocols in Section 4.2.
+ 
+	Monthly reports are due 45 days following the month in which the data was collected.  The information must be tabulated, and use graphical and statistical analysis where appropriate.
+5.2	Facility Reporting 
+
+	The permittee must submit an annual report to the Director and suitable for release to the public consisting of, but not limited to:	
+	•	A summary, including statistical and graphical analyses where appropriate, of 	monitoring under Section 4 for the previous calendar year;
+	•	An explanation of any significant changes to the process or environmental 	control 	equipment that have taken place over the previous year; 
+	•	Highlights of environmental performance and non-compliant situations.
+	Biennially (every second year) this report must include monitoring data trend analysis, conclusions and recommendations as well as a detailed account of environmental initiatives on site since the previous biennial report, including updates on previous work and plans for future work.
+
+	The annual/biennial report is due by March 31 of the year following the period in which the data was collected.
+
+	
+
+
+
+
+
+
+
+
+AREA MAP
+
+
+
+
+SATELLITE MAP
+
+
+
+
+
+
+
+
+
+
+
+SITE PLAN A
+
+
+
+Lots 1 and 4, Plan 4926, Kootenay District
+
+PID’s 9671692 and 9671803
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Environmental Protection DivisionMinistry of Environment401-333 Victoria Street
+Nelson, BC  V1L 4K3Authorizations - South Region
+Telephone:  (250) 354-6333
+Facsimile:  (250) 354-6332
+
+2691	page 2	Date:  December 21, 2016
+
+
+
+
+
+
+
+
+Date issued:	September 9, 1975
+Date amended:	December 21, 2016
+ (most recent)
+Carol Danyluk, P.Eng.
+for Director, Environmental Management Act
+Authorizations - South RegionPage 20 of 34Permit Number:  2691
+
+PROVINCE OF BRITISH COLUMBIAEnvironmental Protection
+
